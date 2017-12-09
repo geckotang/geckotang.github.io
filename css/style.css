@@ -183,6 +183,11 @@ a {
     margin-top: 1em;
     margin-bottom: 1em;
     vertical-align: top; }
+  .post-Article > blockquote {
+    padding: 1em;
+    color: rgba(0, 0, 0, 0.7);
+    border-left: 1em solid rgba(0, 0, 0, 0.05);
+    background-color: rgba(0, 0, 0, 0.04); }
   .post-Article_Head {
     grid-row: 1; }
   .post-Article_HeadTitle {

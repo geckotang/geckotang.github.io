@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>&lt;gecko/&gt;</title>
+    <link>https://geckotang.github.io/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>geckotang&#39;s blog</description>
+    <pubDate>Sat, 09 Dec 2017 04:59:21 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>蒙古タンメン中本 Advent Calendar 2017</title>
+      <link>https://geckotang.github.io/2017/12/09/nakamoto-advent-calendar-2017/</link>
+      <guid>https://geckotang.github.io/2017/12/09/nakamoto-advent-calendar-2017/</guid>
+      <pubDate>Sat, 09 Dec 2017 04:21:24 GMT</pubDate>
+      <description>
+      
+        蒙古タンメン中本 Advent Calendar 2017 9日目の記事です
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h2 id="この記事について"><a href="#この記事について" class="headerlink" title="この記事について"></a>この記事について</h2><p><a href="https://adventar.org/calendars/2135" target="_blank" rel="noopener"> 蒙古タンメン中本 Advent Calendar 2017 </a>の9日目の記事です。</p><p>最近食べた中本を紹介します。</p><h2 id="味噌卵麺"><a href="#味噌卵麺" class="headerlink" title="味噌卵麺"></a>味噌卵麺</h2><p>ネギを追加</p><p><img src="1.jpg" alt="味噌卵麺とネギ"></p><p>おいしい</p><h2 id="中国丼と半ラーメン"><a href="#中国丼と半ラーメン" class="headerlink" title="中国丼と半ラーメン"></a>中国丼と半ラーメン</h2><p>中国丼と半ラーメンのヒヤミ。</p><p><img src="2.jpg" alt="中国丼"></p><p><img src="3.jpg" alt="半ラーメンの冷やし味噌タンメン"></p><p>おいしい。お腹はちきれそうだった。</p><h2 id="北極あんかけ"><a href="#北極あんかけ" class="headerlink" title="北極あんかけ"></a>北極あんかけ</h2><p>ネギと納豆を追加</p><p><img src="4.jpg" alt="北極あんかけ"></p><p>おいしい</p><h2 id="北極やさいシャキシャキ"><a href="#北極やさいシャキシャキ" class="headerlink" title="北極やさいシャキシャキ"></a>北極やさいシャキシャキ</h2><p>ネギと納豆を追加（チーズは僕のじゃない）</p><p><img src="5.jpg" alt="北極野菜シャキシャキとトッピングのネギと納豆とチーズとネギ"></p><p>おいしい</p><h2 id="まとめ"><a href="#まとめ" class="headerlink" title="まとめ"></a>まとめ</h2><p>北極あんかけ好きです。いつもやってほしい。</p>]]></content:encoded>
+      
+      <comments>https://geckotang.github.io/2017/12/09/nakamoto-advent-calendar-2017/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>スタイル確認用のページ</title>
+      <link>https://geckotang.github.io/2017/11/27/styles/</link>
+      <guid>https://geckotang.github.io/2017/11/27/styles/</guid>
+      <pubDate>Mon, 27 Nov 2017 08:40:40 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;The &lt;code&gt;quick&lt;/code&gt; &lt;strong&gt;brown&lt;/strong&gt; &lt;del&gt;fox&lt;/del&gt; jumps over the lazy dog.&lt;/p&gt;
+&lt;h1 id=&quot;見出し1&quot;&gt;&lt;a href=&quot;#見出し1&quot; class=&quot;headerlink
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>The <code>quick</code> <strong>brown</strong> <del>fox</del> jumps over the lazy dog.</p><h1 id="見出し1"><a href="#見出し1" class="headerlink" title="見出し1"></a>見出し1</h1><h2 id="見出し2"><a href="#見出し2" class="headerlink" title="見出し2"></a>見出し2</h2><h3 id="見出し3"><a href="#見出し3" class="headerlink" title="見出し3"></a>見出し3</h3><h4 id="見出し4"><a href="#見出し4" class="headerlink" title="見出し4"></a>見出し4</h4><h5 id="見出し5"><a href="#見出し5" class="headerlink" title="見出し5"></a>見出し5</h5><h6 id="見出し6"><a href="#見出し6" class="headerlink" title="見出し6"></a>見出し6</h6><hr><h2 id="Link"><a href="#Link" class="headerlink" title="Link"></a>Link</h2><p>The quick brown fox <a href=""> jumps over </a> the lazy dog.</p><h2 id="List"><a href="#List" class="headerlink" title="List"></a>List</h2><ul><li>list</li><li>list <code>list</code></li><li>list<ul><li>list</li></ul></li></ul><ol><li>list</li><li>list <code>list</code></li><li>list<ol><li>list</li></ol></li></ol><h3 id="Image"><a href="#Image" class="headerlink" title="Image"></a>Image</h3><p><img src="https://dummyimage.com/300x200/000/fff" alt="300x200"></p><p>The quick brown fox jumps over the lazy dog.</p><p><img src="https://dummyimage.com/900x200/000/fff" alt="900x200"></p><p>The quick brown fox jumps over the lazy dog.</p><p><img src="https://dummyimage.com/1200x200/000/fff" alt="1200x200"></p><p>The quick brown fox jumps over the lazy dog.</p><h3 id="Syntax-Highlight"><a href="#Syntax-Highlight" class="headerlink" title="Syntax Highlight"></a>Syntax Highlight</h3><pre class=" language-css"><code class="language-css"><span class="token selector"><span class="token class">.selector</span> </span><span class="token punctuation">{</span>  <span class="token property">background-color</span><span class="token punctuation">:</span> tomato<span class="token punctuation">;</span><span class="token punctuation">}</span></code></pre><pre class=" language-javascript"><code class="language-javascript"><span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>  <span class="token keyword">const</span> hoge <span class="token operator">=</span> <span class="token string">''</span><span class="token punctuation">;</span>  <span class="token keyword">const</span> fuga <span class="token operator">=</span> <span class="token string">'The quick brown fox jumps over the lazy dog.'</span><span class="token punctuation">;</span><span class="token punctuation">}</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre><h2 id="Block-Quote"><a href="#Block-Quote" class="headerlink" title="Block Quote"></a>Block Quote</h2><p>The quick brown fox jumps over the lazy dog.</p><blockquote><p>The quick brown fox jumps over the lazy dog.<br>The quick brown fox jumps over the lazy dog.</p></blockquote><p>The quick brown fox jumps over the lazy dog.</p>]]></content:encoded>
+      
+      <comments>https://geckotang.github.io/2017/11/27/styles/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
