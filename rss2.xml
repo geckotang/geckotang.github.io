@@ -8,8 +8,29 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>geckotang&#39;s blog</description>
-    <pubDate>Sat, 09 Dec 2017 04:59:21 GMT</pubDate>
+    <pubDate>Sun, 31 Dec 2017 09:18:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2017年振り返り</title>
+      <link>https://geckotang.github.io/2017/12/31/2017%E5%B9%B4%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A/</link>
+      <guid>https://geckotang.github.io/2017/12/31/2017%E5%B9%B4%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A/</guid>
+      <pubDate>Sun, 31 Dec 2017 08:48:05 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;2017年の振り返り。せっかくブログ作ったし書いておく。&lt;/p&gt;
+&lt;h2 id=&quot;技術とか&quot;&gt;&lt;a href=&quot;#技術とか&quot; class=&quot;headerlink&quot; title=&quot;技術とか&quot;&gt;&lt;/a&gt;技術とか&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;CSS Grid元年にふさわしく、CSS
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>2017年の振り返り。せっかくブログ作ったし書いておく。</p><h2 id="技術とか"><a href="#技術とか" class="headerlink" title="技術とか"></a>技術とか</h2><ul><li>CSS Grid元年にふさわしく、CSS Gridに関する記事をよく目にするようになった。<ul><li>IEが死ぬまで便利には使えないのでそこをどうしていくかが難しい</li><li>来年は案件で使ってみたい</li></ul></li><li>MacVimからVSCodeに変えたものの結果的にVimR（neovim）へ。やはりVimである。<ul><li>dein.vimのおかげでプラグインの管理がより楽になった</li></ul></li><li>MacBook Pro (15-inch, Late 2016)のキーボードが<strong>2回</strong>壊れた<ul><li>よくあるやつ。へこみっぱなしで返ってこないとか、反応が悪いとか。</li><li>初回は保証期間内だったから無料だった。2回めは<strong>5万円</strong>の修理代。</li><li>同じような症状の人々が多く、これはリコールなのではと思いつつ、まぁいいや。</li></ul></li><li>左右分離式キーボードを買った。<ul><li>Barocco</li><li>MBPのキーボードが壊れていた時期に買った。</li><li>左右分離してるおかげで腕が広がって良い。家では使っていく。</li><li>矢印キーがないからちょっと慣れない。</li></ul></li></ul><h2 id="仕事とか"><a href="#仕事とか" class="headerlink" title="仕事とか"></a>仕事とか</h2><ul><li>案件でCSS Gridを使うことがなかった。IEめ。</li><li><a href="https://www.codegrid.net/" target="_blank" rel="noopener">CodeGrid</a>の記事をたくさん書いた。14本くらい。<ul><li>来年もたくさん書いてこ。</li></ul></li><li>今やってる案件では、ECSSで頑張ってる。<ul><li>コードを捨てられることを意識してmixinやextendは使わない。</li><li>依存を極力減らしていくようにしている。</li><li>どう考えてもコードの重複は多いが安心して捨てられる。</li><li>コンポーネントの粒度はJS側に合わせている。</li></ul></li></ul><h2 id="登壇と勉強会とか"><a href="#登壇と勉強会とか" class="headerlink" title="登壇と勉強会とか"></a>登壇と勉強会とか</h2><ul><li><a href="https://builderscon.io/tokyo/2017" target="_blank" rel="noopener">builderscon tokyo 2017</a>でCSS Gridの話をしました。</li><li>来年はもう少し登壇しようかな…</li><li><a href="https://tokyo-css-module-specs.connpass.com/" target="_blank" rel="noopener">W3C CSS Module 仕様書もくもく会@東京</a>はほぼ毎月出てた。もう26回も開催している。続けていきたい。</li></ul><h2 id="食べ物とか"><a href="#食べ物とか" class="headerlink" title="食べ物とか"></a>食べ物とか</h2><ul><li>中本たくさん食べた。限定を求めて。</li><li>Anovaが活躍した。<ul><li>鶏レバー、砂肝、鶏肉、豚肉、じゃがいもとバター、甘酒</li></ul></li><li>燻製器を買った。<ul><li>スモークチップ、スモークウッド、ピートを購入した</li><li>豚肉、鴨肉、ちくわ、ウインナー、鯖、ささみ</li></ul></li><li>おせち作った。<ul><li>黒豆</li><li>鴨ロース煮</li><li>なます</li><li>松前漬け</li></ul></li><li>北海道に行って、オータムフェストとか朝市とかで色々食べた。最高。</li></ul><h2 id="漫画とか"><a href="#漫画とか" class="headerlink" title="漫画とか"></a>漫画とか</h2><ul><li>今年購入した漫画は1094冊（2017年12月31日時点）でした。<ul><li>去年は1258冊。</li></ul></li></ul>]]></content:encoded>
+      
+      <comments>https://geckotang.github.io/2017/12/31/2017%E5%B9%B4%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>蒙古タンメン中本 Advent Calendar 2017</title>
